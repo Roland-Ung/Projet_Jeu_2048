@@ -1,6 +1,6 @@
 # Jeu 2048
 
-## Objectif
+## Objectifs
 - Implémenter un jeu interactif en C
 - Manipuler un tableau 2D et des structures de données
 - Gérer les entrées clavier en temps réel
