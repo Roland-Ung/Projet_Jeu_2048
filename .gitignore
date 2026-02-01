@@ -1,0 +1,18 @@
+# Fichiers compilés
+*.o
+*.out
+*.exe
+
+# Binaire du jeu (si tu l'appelles 2048 par exemple)
+2048
+
+# Fichiers temporaires
+*~
+*.swp
+
+# Dossiers IDE / éditeurs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
